@@ -75,7 +75,7 @@ std::string formatAndSubmit(std::string input,std::string UserId){
     std::string holdingString = IDMessagePair[UserId];
     IDMessagePair[UserId]= holdingString+"\n" + input;
     input = IDMessagePair[UserId];
-      //shamelessly stolen from chatgpt understand later fix now
+      //shamelessly stolen understand later fix now
     
   }
   //put shit in the proper place and then cut off all the JSON formatting
