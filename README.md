@@ -8,5 +8,6 @@ https://github.com/brainboxdotcc/DPP
 
 https://github.com/ggerganov/llama.cpp
 
-
+'''
 g++ 'discordChatBotV2 (copy).cpp' -l dpp -l curl -o discordChatbot.exe
+'''
