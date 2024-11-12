@@ -10,5 +10,9 @@ https://github.com/ggerganov/llama.cpp
 
 https://huggingface.co/TheBloke
 
-g++ 'discordChatBotV2 (copy).cpp' -l dpp -l curl -o discordChatbot.exe
-
+TO DO:
+Pull the following from a JSON config file
+- bot prompt
+- bot secret
+figure out where that memory access crash comes from once in a blue moon. 
+Trim the fat and make it look pretty : )

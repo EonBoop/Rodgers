@@ -1,0 +1,3 @@
+/home/eon/fucking_around/c++/ai/Rodgers/buid/CMakeFiles/rodgers.exe.dir
+/home/eon/fucking_around/c++/ai/Rodgers/buid/CMakeFiles/edit_cache.dir
+/home/eon/fucking_around/c++/ai/Rodgers/buid/CMakeFiles/rebuild_cache.dir
